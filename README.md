@@ -10,3 +10,12 @@
 💬 Ask me about anything, I will help you, if it is something I know about.
 
 JS | NodeJS | ReactJS
+
+💻 Tech Stack:
+NodeJS Postgres MySQL Express.js MongoDB MySQL Docker
+
+📊 GitHub Stats:
+
+
+
+
