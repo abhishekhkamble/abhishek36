@@ -9,6 +9,4 @@
 
 💬 Ask me about anything, I will help you, if it is something I know about.
 
-📫 How to reach me: adarshm07 - Twitter.
-
 JS | NodeJS | ReactJS
