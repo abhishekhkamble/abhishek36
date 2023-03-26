@@ -3,7 +3,7 @@
 
 🗽 I'm interested in programming.
 
-🌱 I’m currently learning JS, NodeJS and React JS.
+🌱 I’m working learning JS, NodeJS and React JS.
 
 🔔 I’m looking to collaborate on Web Development.
 
